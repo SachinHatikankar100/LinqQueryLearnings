@@ -1,7 +1,7 @@
 {
   "name": "LinqQueryLearnings",
   "description": "Linq Query Learnings",
-  "main": "Main.xaml",
+  "main": "Main_ACMEDataExtractor.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.3]",
     "UiPath.Mail.Activities": "[1.9.3]",
@@ -42,8 +42,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "4f389d80-968b-4e32-b4a7-7ffd70567ffe",
+      "filePath": "Main_ACMEDataExtractor.xaml",
+      "uniqueId": "3448c4c6-b257-4794-9076-1d3d427b4cc8",
       "input": [],
       "output": []
     }
